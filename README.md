@@ -1,4 +1,4 @@
-- Hi, 👋I’m @Haarika
+- Hi, 👋I’m @Harika
 
 - 🌱 I’m currently learning full stack development and python...
   
