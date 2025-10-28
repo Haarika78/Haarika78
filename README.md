@@ -1,6 +1,6 @@
 - Hi 👋,I’m Harika
 
-- 🌱 I’m currently learning full stack development and python...
+- 🌱 I’m currently learning full stack development and Java
   
 - 📫 How to reach me 
 harikap283@gmail.com
