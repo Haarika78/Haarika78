@@ -47,19 +47,21 @@
 ## About
 
 ## About
+## About
+## About
 
-I am a **Software Engineer** with a strong foundation in **Java, Python, Backend Development, Database Systems, and Full Stack Web Development**. As a Computer Science Engineering graduate from **Methodist College of Engineering and Technology**, I am passionate about building scalable software solutions that solve real-world problems through clean architecture, efficient design, and maintainable code.
+I am a **Software Engineer** with a strong foundation in **Java, Python, Backend Development, Database Systems, Artificial Intelligence Applications, and Full Stack Web Development**. As a Computer Science Engineering graduate from **Methodist College of Engineering and Technology**, I am passionate about building scalable software solutions that combine robust engineering principles with modern AI-driven capabilities.
 
-My experience spans backend application development, REST API design, database management, cybersecurity-focused systems, and real-time collaborative platforms. Through projects such as a **Secure DNS Server with Threat Intelligence Integration**, **Collaborative Code Editor**, and **Intelligent Video Surveillance System**, I have gained hands-on experience in designing, developing, and optimizing software systems across different domains.
+My experience spans **backend application development, REST API design, database management, AI-powered systems, cybersecurity-focused applications, and real-time collaborative platforms**. I have developed projects including a **Secure DNS Server with Threat Intelligence Integration**, **Collaborative Code Editor**, and **Intelligent Video Surveillance System**, gaining hands-on experience in architecting, developing, and optimizing software systems across diverse domains.
 
-I am particularly interested in **Software Engineering, Backend Development, Cloud Technologies, and Distributed Systems**, with a continuous focus on improving my expertise in system design, problem solving, and modern development practices. I enjoy transforming complex requirements into reliable and user-centric applications while adhering to industry-standard engineering principles.
+Currently, I am developing an **Enterprise AI Assistant** focused on intelligent automation, Retrieval-Augmented Generation (RAG), Large Language Model (LLM) integration, vector-based knowledge retrieval, and conversational AI. The platform is designed to enhance enterprise productivity through intelligent information access, contextual assistance, and workflow automation.
 
-Beyond development, I actively strengthen my technical foundation through continuous learning, exploring emerging technologies, and solving algorithmic problems to enhance analytical thinking and software design skills.
+I am particularly interested in **Software Engineering, Backend Development, Artificial Intelligence Applications, Cloud Technologies, and Distributed Systems**. My goal is to build reliable, secure, and scalable applications while continuously expanding my expertise in modern software architecture, AI systems, and cloud-native technologies.
 
-**Open to:** Associate Software Engineer · Software Developer · Java Developer · Backend Developer · Full Stack Developer Opportunities
+Beyond development, I actively strengthen my technical foundation through continuous learning, hands-on project development, and problem-solving, enabling me to approach complex engineering challenges with an analytical and solution-oriented mindset.
+
+**Open to:** Associate Software Engineer · Software Developer · Java Developer · Backend Developer · Full Stack Developer · AI Application Developer Opportunities
 .
-
-**Open to:** Associate Software Engineer Roles · Backend Developer Roles · Java Developer Roles · Full Stack Developer Opportunities
 
 
 
@@ -80,7 +82,7 @@ Beyond development, I actively strengthen my technical foundation through contin
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,mysql,postgresql&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=django,flask,mysql,sqlite&theme=dark"/>
 </p>
 
 ### Cloud, DevOps & Tooling
@@ -89,22 +91,53 @@ Beyond development, I actively strengthen my technical foundation through contin
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark"/>
 </p>
 
+### AI & Intelligent Systems
 
+<p>
+  <img src="https://img.shields.io/badge/LLMs-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/RAG-6366F1?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Vector_Databases-A78BFA?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Semantic_Search-8B5CF6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI_APIs-4F46E5?style=flat-square"/>
+</p>
 
-## AI / ML Expertise
+## Core Engineering Expertise
 
-| Domain                       | Proficiency  | Details                                     |
-| ---------------------------- | ------------ | ------------------------------------------- |
-| Machine Learning             | Intermediate | Model development, evaluation, optimization |
-| Computer Vision              | Intermediate | OpenCV-based surveillance systems           |
-| Threat Intelligence Systems  | Advanced     | DNS security and malicious domain detection |
-| Backend Engineering          | Advanced     | REST APIs, Flask, database integration      |
-| Software Engineering         | Advanced     | OOP, SDLC, debugging, scalable architecture |
-| Data Structures & Algorithms | Advanced     | Problem solving and algorithmic design      |
+| Domain | Proficiency | Details |
+|---|---|---|
+| Backend Development | Advanced | Flask, Django, REST APIs, Database Integration |
+| Software Engineering | Advanced | OOP, SDLC, Design Principles |
+| Database Systems | Advanced | MySQL, SQLite, SQL |
+| Web Development | Advanced | HTML, CSS, JavaScript |
+| AI Applications | Intermediate | LLM Integration, Conversational AI, Enterprise AI Systems |
+| Retrieval-Augmented Generation (RAG) | Intermediate | Knowledge Retrieval, Context-Aware Responses |
+| Vector Databases | Intermediate | Embeddings, Semantic Search, Document Retrieval |
+| Cybersecurity Systems | Intermediate | DNS Security, Threat Intelligence |
+| Computer Vision | Intermediate | OpenCV-Based Surveillance Systems |
 
 
 
 ## Featured Projects
+
+<details>
+<summary><b>Enterprise AI Assistant — Intelligent Knowledge & Automation Platform</b></summary>
+
+<br/>
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · Flask · LLM APIs · Vector Database |
+| **AI Capabilities** | RAG · Semantic Search · Conversational AI |
+| **Knowledge Layer** | Document Retrieval & Context Management |
+| **Architecture** | AI Services + Backend APIs |
+| **Focus** | Enterprise Productivity & Automation |
+| **Status** | Active Development |
+
+Developing an Enterprise AI Assistant designed to enhance workplace productivity through Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), semantic search, and intelligent knowledge retrieval. The platform enables users to interact with enterprise data through natural language while providing context-aware and accurate responses.
+
+Key areas include document ingestion, embedding generation, vector search, prompt orchestration, conversational workflows, and scalable backend integration.
+
+</details>
 
 <details>
 <summary><b>Collaborative Code Editor — Real-Time Development Platform</b></summary>
@@ -201,6 +234,7 @@ Completed Android development training focused on mobile application development
 | Recognition                           | Details                                                 |
 | ------------------------------------- | ------------------------------------------------------- |
 | Computer Science Engineering Graduate | Methodist College of Engineering and Technology         |
+| Enterprise AI Assistant | Designing and developing an AI-powered enterprise productivity platform |
 | Collaborative Code Editor Project     | Developed real-time collaborative coding platform       |
 | Secure DNS Security Platform          | Built threat intelligence-enabled DNS monitoring system |
 | Intelligent Video Surveillance System | Developed anomaly detection and monitoring solution     |
@@ -299,31 +333,28 @@ Completed Android development training focused on mobile application development
 
 ## Current Focus
 
-  yaml
-Learning:
-  - Advanced Java Development
+  Learning:
   - Spring Boot & Microservices
-  - Cloud Technologies on AWS
-  - System Design Fundamentals
+  - Advanced RAG Architectures
+  - AWS Cloud Services
 
 Building:
-  - Secure Backend Applications
-  - Real-Time Collaborative Systems
+  - Enterprise AI Assistant
+  - Backend Applications
   - RESTful APIs
-  - Full Stack Web Applications
+  - Intelligent Knowledge Systems
 
 Exploring:
-  - Software Architecture Patterns
+  - Large Language Models (LLMs)
+  - Vector Databases
+  - Semantic Search
   - Distributed Systems
-  - Cybersecurity & Threat Intelligence
-  - AI & Computer Vision Applications
 
 Open To:
-  - Associate Software Engineer Roles
-  - Java Developer Opportunities
+  - Software Engineer Roles
   - Backend Developer Roles
-  - Full Stack Developer Positions
-
+  - AI Application Developer Roles
+  - Full Stack Developer Roles
 
 
 
