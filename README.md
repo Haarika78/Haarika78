@@ -64,7 +64,7 @@ Beyond development, I actively strengthen my technical foundation through contin
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,python &theme=dark"/>
 </p>
 
 ### Frontend
