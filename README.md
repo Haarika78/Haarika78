@@ -42,19 +42,26 @@
 
 <br/>
 
----
+
 
 ## About
 
-I am a **Software Engineer**, **Java Developer**, and **Full Stack Developer** with a strong foundation in backend systems, REST API development, database design, and scalable application development.
+## About
 
-As a Computer Science Engineering graduate from **Methodist College of Engineering and Technology**, I have built projects spanning collaborative real-time applications, cybersecurity-focused backend systems, and computer vision solutions.
+I am a **Software Engineer** with a strong foundation in **Java, Python, Backend Development, Database Systems, and Full Stack Web Development**. As a Computer Science Engineering graduate from **Methodist College of Engineering and Technology**, I am passionate about building scalable software solutions that solve real-world problems through clean architecture, efficient design, and maintainable code.
 
-My engineering approach combines strong fundamentals in data structures, algorithms, object-oriented programming, and software development practices with a focus on building reliable, maintainable, and production-ready software.
+My experience spans backend application development, REST API design, database management, cybersecurity-focused systems, and real-time collaborative platforms. Through projects such as a **Secure DNS Server with Threat Intelligence Integration**, **Collaborative Code Editor**, and **Intelligent Video Surveillance System**, I have gained hands-on experience in designing, developing, and optimizing software systems across different domains.
+
+I am particularly interested in **Software Engineering, Backend Development, Cloud Technologies, and Distributed Systems**, with a continuous focus on improving my expertise in system design, problem solving, and modern development practices. I enjoy transforming complex requirements into reliable and user-centric applications while adhering to industry-standard engineering principles.
+
+Beyond development, I actively strengthen my technical foundation through continuous learning, exploring emerging technologies, and solving algorithmic problems to enhance analytical thinking and software design skills.
+
+**Open to:** Associate Software Engineer · Software Developer · Java Developer · Backend Developer · Full Stack Developer Opportunities
+.
 
 **Open to:** Associate Software Engineer Roles · Backend Developer Roles · Java Developer Roles · Full Stack Developer Opportunities
 
----
+
 
 ## Tech Stack
 
@@ -82,7 +89,7 @@ My engineering approach combines strong fundamentals in data structures, algorit
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman&theme=dark"/>
 </p>
 
----
+
 
 ## AI / ML Expertise
 
@@ -95,7 +102,7 @@ My engineering approach combines strong fundamentals in data structures, algorit
 | Software Engineering         | Advanced     | OOP, SDLC, debugging, scalable architecture |
 | Data Structures & Algorithms | Advanced     | Problem solving and algorithmic design      |
 
----
+
 
 ## Featured Projects
 
@@ -152,41 +159,6 @@ Developed a backend security platform capable of detecting and blocking maliciou
 Built a computer vision system capable of monitoring live video streams, detecting anomalies, and generating alerts for suspicious activities in real time.
 
 </details>
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript&theme=dark"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/SQL-Advanced-7C3AED?style=flat-square&logo=mysql&logoColor=white"/>
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark"/>
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=django,flask,mysql,sqlite&theme=dark"/>
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,git,github&theme=dark"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/PowerBI-Data_Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-</p>
-
----
 
 ## Experience
 
@@ -221,7 +193,6 @@ Completed Android development training focused on mobile application development
 
 `Android` `Java` `Problem Solving` `Debugging`
 
----
 
 ## Achievements
 
@@ -239,7 +210,6 @@ Completed Android development training focused on mobile application development
 
 </div>
 
----
 
 ## Certifications
 
@@ -269,7 +239,6 @@ Completed Android development training focused on mobile application development
 
 </div>
 
----
 
 ## Coding Profiles
 
@@ -281,7 +250,6 @@ Completed Android development training focused on mobile application development
 
 </div>
 
----
 
 ## GitHub Analytics
 
@@ -297,7 +265,7 @@ Completed Android development training focused on mobile application development
 
 </div>
 
----
+
 
 ## GitHub Trophies
 
@@ -307,7 +275,7 @@ Completed Android development training focused on mobile application development
 
 </div>
 
----
+
 
 ## Contribution Activity
 
@@ -317,7 +285,7 @@ Completed Android development training focused on mobile application development
 
 </div>
 
----
+
 
 ## Contribution Snake
 
@@ -327,11 +295,11 @@ Completed Android development training focused on mobile application development
 
 </div>
 
----
+
 
 ## Current Focus
 
-```yaml
+  yaml
 Learning:
   - Advanced Java Development
   - Spring Boot & Microservices
@@ -355,9 +323,9 @@ Open To:
   - Java Developer Opportunities
   - Backend Developer Roles
   - Full Stack Developer Positions
-```
 
----
+
+
 
 ## Connect
 
