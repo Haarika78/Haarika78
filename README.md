@@ -42,12 +42,6 @@
 
 <br/>
 
-
-
-## About
-
-## About
-## About
 ## About
 
 I am a **Software Engineer** with a strong foundation in **Java, Python, Backend Development, Database Systems, Artificial Intelligence Applications, and Full Stack Web Development**. As a Computer Science Engineering graduate from **Methodist College of Engineering and Technology**, I am passionate about building scalable software solutions that combine robust engineering principles with modern AI-driven capabilities.
