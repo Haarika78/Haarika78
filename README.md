@@ -64,7 +64,7 @@ Beyond development, I actively strengthen my technical foundation through contin
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python &theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,python&theme=dark"/>
 </p>
 
 ### Frontend
@@ -181,7 +181,6 @@ Developed a backend security platform capable of detecting and blocking maliciou
 | **Detection**     | Anomaly detection engine            |
 | **Alerts**        | Automated event notifications       |
 | **Performance**   | Optimized for continuous monitoring |
-| **Repository**    | https://github.com/Haarika78        |
 
 Built a computer vision system capable of monitoring live video streams, detecting anomalies, and generating alerts for suspicious activities in real time.
 
