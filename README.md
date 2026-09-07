@@ -129,6 +129,7 @@ Beyond development, I actively strengthen my technical foundation through contin
 | **Architecture**        | Spring Boot REST APIs + React Dashboard + PostgreSQL      |
 | **Status**              | Completed                                                 |
 
+
 Developed an **Enterprise AI Assistant** using **Java, Spring Boot, PostgreSQL, React, and Ollama**, enabling users to upload documents and ask natural-language questions. Implemented **RAG, document chunking, embeddings with `nomic-embed-text`, cosine similarity, keyword-based retrieval, and `llama3.2:3b`** for context-aware responses. Added **JWT authentication, document management, active document selection, chat history, and REST APIs**.
 
 </details>
