@@ -114,24 +114,25 @@ Beyond development, I actively strengthen my technical foundation through contin
 ## Featured Projects
 
 <details>
-<summary><b>Enterprise AI Assistant — Intelligent Knowledge & Automation Platform</b></summary>
+<summary><b>Enterprise AI Assistant — Intelligent Document & Knowledge Retrieval Platform</b></summary>
 
 <br/>
 
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python · Flask · LLM APIs · Vector Database |
-| **AI Capabilities** | RAG · Semantic Search · Conversational AI |
-| **Knowledge Layer** | Document Retrieval & Context Management |
-| **Architecture** | AI Services + Backend APIs |
-| **Focus** | Enterprise Productivity & Automation |
-| **Status** | Active Development |
+| Attribute               | Detail                                                    |
+| ----------------------- | --------------------------------------------------------- |
+| **Stack**               | Java · Spring Boot · PostgreSQL · React · Ollama          |
+| **AI Models**           | `llama3.2:3b` · `nomic-embed-text`                        |
+| **AI Capabilities**     | RAG · Semantic Search · Embeddings · Context-Aware AI     |
+| **Document Processing** | PDF · DOCX · XLSX · PNG · JPG · JPEG · OCR                |
+| **Retrieval**           | Cosine Similarity · Keyword Boosting · Top-K Retrieval    |
+| **Security**            | Spring Security · JWT Authentication · User-Specific Data |
+| **Architecture**        | Spring Boot REST APIs + React Dashboard + PostgreSQL      |
+| **Status**              | Completed                                                 |
 
-Developing an Enterprise AI Assistant designed to enhance workplace productivity through Retrieval-Augmented Generation (RAG), Large Language Models (LLMs), semantic search, and intelligent knowledge retrieval. The platform enables users to interact with enterprise data through natural language while providing context-aware and accurate responses.
-
-Key areas include document ingestion, embedding generation, vector search, prompt orchestration, conversational workflows, and scalable backend integration.
+Developed an **Enterprise AI Assistant** using **Java, Spring Boot, PostgreSQL, React, and Ollama**, enabling users to upload documents and ask natural-language questions. Implemented **RAG, document chunking, embeddings with `nomic-embed-text`, cosine similarity, keyword-based retrieval, and `llama3.2:3b`** for context-aware responses. Added **JWT authentication, document management, active document selection, chat history, and REST APIs**.
 
 </details>
+
 
 <details>
 <summary><b>Collaborative Code Editor — Real-Time Development Platform</b></summary>
@@ -339,6 +340,7 @@ Building:
 
 Exploring:
   - Large Language Models (LLMs)
+  - Artificial Intelligence
   - Vector Databases
   - Semantic Search
   - Distributed Systems
