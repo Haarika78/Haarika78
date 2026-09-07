@@ -99,10 +99,10 @@ Beyond development, I actively strengthen my technical foundation through contin
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Backend Development | Advanced | Flask, Django, REST APIs, Database Integration |
-| Software Engineering | Advanced | OOP, SDLC, Design Principles |
-| Database Systems | Advanced | MySQL, SQLite, SQL |
-| Web Development | Advanced | HTML, CSS, JavaScript |
+| Backend Development | Intermediate | Flask, Django, REST APIs, Database Integration |
+| Software Engineering | Intermediate | OOP, SDLC, Design Principles |
+| Database Systems | Intermediate | MySQL, SQLite, SQL |
+| Web Development | Intermediate | HTML, CSS, JavaScript |
 | AI Applications | Intermediate | LLM Integration, Conversational AI, Enterprise AI Systems |
 | Retrieval-Augmented Generation (RAG) | Intermediate | Knowledge Retrieval, Context-Aware Responses |
 | Vector Databases | Intermediate | Embeddings, Semantic Search, Document Retrieval |
