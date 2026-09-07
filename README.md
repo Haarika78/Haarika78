@@ -118,16 +118,16 @@ Beyond development, I actively strengthen my technical foundation through contin
 
 <br/>
 
-| Attribute               | Detail                                                    |
-| ----------------------- | --------------------------------------------------------- |
-| **Stack**               | Java · Spring Boot · PostgreSQL · React · Ollama          |
-| **AI Models**           | `llama3.2:3b` · `nomic-embed-text`                        |
-| **AI Capabilities**     | RAG · Semantic Search · Embeddings · Context-Aware AI     |
-| **Document Processing** | PDF · DOCX · XLSX · PNG · JPG · JPEG · OCR                |
-| **Retrieval**           | Cosine Similarity · Keyword Boosting · Top-K Retrieval    |
-| **Security**            | Spring Security · JWT Authentication · User-Specific Data |
-| **Architecture**        | Spring Boot REST APIs + React Dashboard + PostgreSQL      |
-| **Status**              | Completed                                                 |
+| Attribute      | Detail                                               |
+| -------------- | ---------------------------------------------------- |
+| **Stack**      | Java · Spring Boot · PostgreSQL · React · Ollama     |
+| **AI**         | RAG · LLM Integration · Semantic Search              |
+| **Models**     | `llama3.2:3b` · `nomic-embed-text`                   |
+| **Retrieval**  | Cosine Similarity · Keyword Boosting · Top-K         |
+| **Security**   | JWT Authentication · Spring Security                 |
+| **Features**   | Document Processing · Chat History · REST APIs       |
+| **Status**     | Completed                                            |
+| **Repository** | https://github.com/Haarika78/enterprise-ai-assistant |
 
 
 Developed an **Enterprise AI Assistant** using **Java, Spring Boot, PostgreSQL, React, and Ollama**, enabling users to upload documents and ask natural-language questions. Implemented **RAG, document chunking, embeddings with `nomic-embed-text`, cosine similarity, keyword-based retrieval, and `llama3.2:3b`** for context-aware responses. Added **JWT authentication, document management, active document selection, chat history, and REST APIs**.
